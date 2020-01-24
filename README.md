@@ -33,3 +33,4 @@ Folder [test-multiple_fruits](test-multiple_fruits) contains images with multipl
 
 Horea Muresan, [Mihai Oltean](https://mihaioltean.github.io), [Fruit recognition from images using deep learning](https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images_using_deep_learning), Acta Univ. Sapientiae, Informatica Vol. 10, Issue 1, pp. 26-42, 2018.
 
+Download  [Dataset](https://www.kaggle.com/moltean/fruits)
